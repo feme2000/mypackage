@@ -3,5 +3,5 @@
 This is my first package.
 
 # Installation
-pip install git+<specify the URL of your package here>
+pip install git+<https://github.com/feme2000/mypackage>
     
